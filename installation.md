@@ -20,9 +20,10 @@
 **Step 7**: (Optional) If path to python.exe is not set to be the same. Uncomment the line <code>julia.install()</code> in the test.py file
 <br><br>
 
-**Step 8**: Navigate to getStarted folder, we now test our setp
+**Step 8**: We now test our setup with Python
 <code>python test.py</code>
 <br><br>
+
 **Troubleshoot**: If python.exe path is not the same, you will receive a notice as such. Look at step 7.
 
 Now, you are ready to go!
