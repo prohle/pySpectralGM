@@ -1,26 +1,28 @@
-Step 1: Install julia in python
+**Step 1**: Install julia in python<br>
 <code>pip install julia</code>
-
-Step 2: Install julia -> Once complete, from cmd, type
-julia
-
-Step 3: Once julia terminal opens, install Pycall
-import Pkg; Pkg.add("PyCall")
-
-Step 4: Install SpectralGM, type
-]
-
-Step 5: Package management terminal will appear Pkg>, type
-add https://github.com/prohle/SpectralGM.jl.git
-
-Step 6: Hit the 'Backspace' key on the keyboard to go back to Julia terminal, type the below to exist Julia
+<br><br>
+**Step 2**: Install julia -> Once complete, from cmd, type<br>
+<code>julia</code>
+<br><br>
+**Step 3**: Once julia terminal opens, install Pycall<br>
+<code>import Pkg; Pkg.add("PyCall")</code>
+<br><br>
+**Step 4**: Install SpectralGM, type<br>
+<code>]</code>
+<br><br>
+**Step 5**: Package management terminal will appear Pkg>, type<br>
+<code>add https://github.com/prohle/SpectralGM.jl.git</code>
+<br><br>
+**Step 6**: Hit the 'Backspace' key on the keyboard to go back to Julia terminal, type the below to exist Julia<br>
 exit()
+<br><br>
 
-Step 7: (Optional) If path to python.exe is not set to be the same. Uncomment the line 'julia.install()' in the test.py file
+**Step 7**: (Optional) If path to python.exe is not set to be the same. Uncomment the line <code>julia.install()</code> in the test.py file
+<br><br>
 
-Step 8: Navigate to getStarted folder, we now test our setp
-python test.py
-
-If python.exe path is not the same, you will receive a notice as such. Look at step 7.
+**Step 8**: Navigate to getStarted folder, we now test our setp
+<code>python test.py</code>
+<br><br>
+**Troubleshoot**: If python.exe path is not the same, you will receive a notice as such. Look at step 7.
 
 Now, you are ready to go!
