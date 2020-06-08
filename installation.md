@@ -1,5 +1,5 @@
 Step 1: Install julia in python
-pip install julia
+<code>pip install julia</code>
 
 Step 2: Install julia -> Once complete, from cmd, type
 julia
