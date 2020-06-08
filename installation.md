@@ -1,7 +1,7 @@
 **Step 1**: Install julia in python<br>
 <code>pip install julia</code>
 <br><br>
-**Step 2**: Install julia -> Once complete, from cmd, type<br>
+**Step 2**: Install julia -> Once complete, open **cmd** terminal, type<br>
 <code>julia</code>
 <br><br>
 **Step 3**: Once julia terminal opens, install Pycall<br>
@@ -10,7 +10,7 @@
 **Step 4**: Install SpectralGM, type<br>
 <code>]</code>
 <br><br>
-**Step 5**: Package management terminal will appear Pkg>, type<br>
+**Step 5**: Package management terminal will appear, it will look something like so <code>(@v1.4)Pkg></code>, type<br>
 <code>add https://github.com/prohle/SpectralGM.jl.git</code>
 <br><br>
 **Step 6**: Hit the 'Backspace' key on the keyboard to go back to Julia terminal, type the below to exist Julia<br>
