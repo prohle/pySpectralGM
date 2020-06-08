@@ -14,7 +14,7 @@
 <code>add https://github.com/prohle/SpectralGM.jl.git</code>
 <br><br>
 **Step 6**: Hit the 'Backspace' key on the keyboard to go back to Julia terminal, type the below to exist Julia<br>
-exit()
+<code>exit()</code>
 <br><br>
 
 **Step 7**: (Optional) If path to python.exe is not set to be the same. Uncomment the line <code>julia.install()</code> in the test.py file
